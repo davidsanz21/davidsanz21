@@ -1,16 +1,13 @@
-## Hi there 👋
+## David Sanz Cañal
 
-<!--
-**davidsanz21/davidsanz21** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Industrial engineer — 10 years in supplier quality and industrialization at **Tesla** and **Mercedes-Benz**, now building at the intersection of industrial operations and applied AI.
 
-Here are some ideas to get you started:
+The repositories here are working systems I run, not tutorials:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- [**hashheat-dispatch**](https://github.com/davidsanz21/hashheat-dispatch) — hourly dispatch simulator for PV + battery + a miner as thermal-cascade heat source. Sized a real renovation with it.
+- [**preferreds-rotation-engine**](https://github.com/davidsanz21/preferreds-rotation-engine) — daily quant rotation protocol with a 35-check QC battery. Runs my live portfolio.
+- [**job-search-ops**](https://github.com/davidsanz21/job-search-ops) — an agentic job-search system packaged as a Claude skill, used in production on real applications.
+
+All code written with Claude under my direction: I specify the behavior, review the changes, and operate and maintain the systems daily.
+
+📍 Tenerife, Spain · EN / DE / ES · [LinkedIn](https://www.linkedin.com/in/david-sanz-canal/)
